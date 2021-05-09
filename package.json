@@ -4,6 +4,12 @@
   "description": "input number control of react component",
   "author": "kavience <kavience@gmail.com>",
   "main": "lib/index.js",
+  "keywords": [
+    "react",
+    "react-component",
+    "wc",
+    "wc-input-number"
+  ],
   "scripts": {
     "dev": "npm run update-demo && dumi dev",
     "build": "npm run update-demo && dumi build && npm run lib:build",
