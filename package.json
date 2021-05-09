@@ -1,6 +1,6 @@
 {
   "name": "wc-input-number",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "input number control of react component",
   "author": "kavience <kavience@gmail.com>",
   "main": "lib/index.js",
