@@ -1,6 +1,7 @@
 export default {
   title: 'wc-input-number',
   publicPath: '/wc-input-number/',
+  base: '/wc-input-number',
   favicon:
     'https://github.com/kavience/willow-components/blob/master/public/favicon.png?raw=true',
   logo:
