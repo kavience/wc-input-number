@@ -2,6 +2,10 @@
 
 wc-input-number 是一个 React 数字输入框组件，同时也是 [willow-design](https://github.com/kavience/willow-design) 的基础组件.
 
+## 预览
+
+[Demo](https://kavience.github.io/wc-input-number/)
+
 ## API
 
 |       成员       |                说明                 |                            类型                            |     默认值      | 版本  |

@@ -1,6 +1,3 @@
-interface IProps {
-    className: string;
-    children: any;
-}
-export default function Button(props: IProps): JSX.Element;
-export {};
+import InputNumber, { InputNumberProps } from './input-number';
+export { InputNumberProps };
+export default InputNumber;
